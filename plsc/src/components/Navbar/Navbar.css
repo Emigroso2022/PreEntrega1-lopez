@@ -1,0 +1,10 @@
+.boton{
+    color: aqua;
+}
+
+.navbar{
+    display: flex;
+    justify-content:center ;
+    text-align: center;
+    background-color: #eeeeee;
+}
